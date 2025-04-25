@@ -1,0 +1,26 @@
+{
+  "format_version": 1,
+  "header": {
+    "description": "Pre-zipped Model Engine Resource Pack",
+    "name": "resource pack",
+    "platform_locked": false,
+    "uuid": "81aaac32-dda0-402e-bb11-55620788ac05",
+    "version": [
+      0,
+      0,
+      1
+    ]
+  },
+  "modules": [
+    {
+      "description": "Pre-zipped Model Engine Resource Pack",
+      "type": "resources",
+      "uuid": "de897b27-f44c-46a0-bfcb-1aed74c2847b",
+      "version": [
+        0,
+        0,
+        1
+      ]
+    }
+  ]
+}
